@@ -3,7 +3,7 @@
 
 ### ¡Hi! 🤓
 
-- 🔭 I’m currently working at [Asakaa](https://asakaa.com/) as Back-end Developer. 🚗
+- 🔭 I’m currently working at [Asakaa](https://asakaa.com/) as Back-end Developer.
 - 🌱 I’m currently learning about AWS.
 - 👯 I’m looking to collaborate with GitHub Campus Experts, GDG's and other friendly communities.
 - 🤔 I’m looking for help with Management.
