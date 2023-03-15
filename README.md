@@ -1,6 +1,5 @@
-### My skills to the order of imagination 👋
 
-![Banner](banner.gif)
+<!--![Banner](banner.gif)-->
 
 ### ¡Hi! 🤓
 
@@ -11,35 +10,13 @@
 - 💬 Ask me about Backend Engineering and 5G Networks.
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/andresgarzonj), mail me at [sebasgarzonj@gmail.com](mailto:sebasgarzonj@gmail.com) or go check my own [website](https://linktr.ee/andresgarzonj).
 - 😄 Pronouns: He/him. 
-- ⚡ Fun fact: I prefer functional programming rather than object-oriented programming. 🤭
+- :earth_americas:&nbsp;&nbsp; Greenwood, South Carolina, USA
 
 ---
 
-
+### My skills to the order of imagination 👋
 <!--
-**AndresGarzonJ/AndresGarzonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://davidwindham.com/img/ddog.png" align="right" width="100">
-
-#### Hello good people &amp; bots of Github :octocat:
-
-:speech_balloon:&nbsp;&nbsp; Mostly here to learn from others. I generally try to help folks make good use of the web by crafting custom applications. Fan of simplicity, sustainability, performance, efficiency, open, well documented, and function over form. Studio art major and reformed technology enthusiast.
-
-:computer:&nbsp;&nbsp; ARM > x86. Vim > Emacs. Started with BASIC on an Apple II, managed to avoid C, and still haven't learned Rust. Perfectly capable of creating an unholy amalgamation of spaghetti code.  
-
-:earth_americas:&nbsp;&nbsp; Greenwood, South Carolina, USA
-
-:globe_with_meridians:&nbsp;&nbsp; [**davidwindham.com**](https://davidwindham.com/) /
-[**davidawindham.com**](https://davidawindham.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGarzonJ&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresGarzonJ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGarzonJ)](https://github.com/anuraghazra/github-readme-stats)
 -->
