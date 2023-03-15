@@ -1,5 +1,21 @@
 ### My skills to the order of imagination 👋
 
+![Banner](banner.gif)
+
+### ¡Hi! 🤓
+
+- 🔭 I’m currently working at [Asakaa](https://asakaa.com/) as Back-end Developer. 🚗
+- 🌱 I’m currently learning about AWS.
+- 👯 I’m looking to collaborate with GitHub Campus Experts, GDG's and other friendly communities.
+- 🤔 I’m looking for help with Management.
+- 💬 Ask me about Backend Engineering and 5G Networks.
+- 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/andresgarzonj), mail me at [sebasgarzonj@gmail.com](mailto:sebasgarzonj@gmail.com) or go check my own [website](https://linktr.ee/andresgarzonj).
+- 😄 Pronouns: He/him. 
+- ⚡ Fun fact: I prefer functional programming rather than object-oriented programming. 🤭
+
+---
+
+
 <!--
 **AndresGarzonJ/AndresGarzonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +42,4 @@ Here are some ideas to get you started:
 
 :globe_with_meridians:&nbsp;&nbsp; [**davidwindham.com**](https://davidwindham.com/) /
 [**davidawindham.com**](https://davidawindham.com/)
-
-
 -->
