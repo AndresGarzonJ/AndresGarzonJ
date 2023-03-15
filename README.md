@@ -10,7 +10,7 @@
 - 💬 Ask me about Backend Engineering and 5G Networks.
 - 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/andresgarzonj), mail me at [sebasgarzonj@gmail.com](mailto:sebasgarzonj@gmail.com) or go check my own [website](https://linktr.ee/andresgarzonj).
 - 😄 Pronouns: He/him. 
-- :earth_americas:&nbsp;&nbsp; Greenwood, South Carolina, USA
+- :earth_americas:&nbsp;&nbsp; Colombia
 
 ---
 
