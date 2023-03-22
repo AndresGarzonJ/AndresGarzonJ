@@ -10,15 +10,10 @@
 <h3 align="center">A passionate frontend BackEnd Developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Asakaa](https://asakaa.com/)
-
 - 🌱 I’m currently learning **AWS.**
-
 - 👯 I’m looking to collaborate with **GitHub Campus Experts, GDG's and other friendly communities.**
-
 - 💬 Ask me about **Backend Engineering and 5G Networks.**
-
 - 😄 Pronouns: He/him. 
-
 - :earth_americas:&nbsp;&nbsp;Colombia
 
 <h3 align="left">Connect with me:</h3>
