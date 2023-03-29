@@ -7,7 +7,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Andres Garzon</h1>
-<h3 align="center">A passionate frontend BackEnd Developer from Colombia</h3>
+<h3 align="center">A passionate BackEnd Developer from Colombia</h3>
 
 - 🔭 I’m currently working on [Asakaa](https://asakaa.com/)
 - 🌱 I’m currently learning **AWS.**
