@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Asakaa](https://asakaa.com/)
 - 🌱 I’m currently learning **AWS.**
 - 👯 I’m looking to collaborate with **GitHub Campus Experts, GDG's and other friendly communities.**
-- 💬 Ask me about **Backend Engineering and 5G Networks.**
+- 💬 Ask me about **Backend Engineering and Mobility Management in 5G Networks.**
 - 😄 Pronouns: He/him. 
 - :earth_americas:&nbsp;&nbsp;Colombia
 
