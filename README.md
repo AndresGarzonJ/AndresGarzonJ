@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Andres Garzon</h1>
 <h3 align="center">A passionate BackEnd Developer from Colombia</h3>
 
-- 🔭 I’m currently working on [TBBC](https://thebitbang.company/)
+- 🔭 I’m currently working on [NEU Energy](https://www.neu.com.co/)
 - 🌱 I’m currently learning **AWS.**
 - 👯 I’m looking to collaborate with **GitHub Campus Experts, GDG's and other friendly communities.**
 - 💬 Ask me about **Backend Engineering, and Mobility Management in 5G Networks.**
